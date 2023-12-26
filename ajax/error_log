@@ -1,0 +1,130 @@
+[19-Aug-2023 15:56:42 UTC] PHP Warning:  Undefined array key "captcha" in /home/hexstre1/public_html/ajax/login.php on line 85
+[19-Aug-2023 15:56:42 UTC] PHP Warning:  Undefined array key "captcha" in /home/hexstre1/public_html/ajax/login.php on line 85
+[21-Aug-2023 21:31:39 UTC] PHP Warning:  Undefined array key "captcha" in /home/hexstre1/public_html/ajax/login.php on line 85
+[23-Aug-2023 22:34:35 UTC] PHP Parse error:  Unclosed '{' on line 225 does not match ')' in /home/hexstre1/public_html/ajax/hub.new.php on line 226
+[25-Aug-2023 21:39:17 UTC] PHP Parse error:  Unclosed '{' on line 411 in /home/hexstre1/public_html/ajax/hub.php on line 487
+[25-Aug-2023 21:40:23 UTC] PHP Parse error:  Unclosed '{' on line 381 in /home/hexstre1/public_html/ajax/hub.php on line 382
+[26-Aug-2023 09:03:24 UTC] PHP Parse error:  syntax error, unexpected token "=", expecting ")" in /home/hexstre1/public_html/ajax/hub.php on line 97
+[26-Aug-2023 09:05:01 UTC] PHP Parse error:  Unclosed '(' in /home/hexstre1/public_html/ajax/hub.php on line 69
+[26-Aug-2023 09:07:27 UTC] PHP Parse error:  Unclosed '[' on line 220 in /home/hexstre1/public_html/ajax/hub.php on line 222
+[26-Aug-2023 09:07:27 UTC] PHP Parse error:  Unclosed '{' on line 284 in /home/hexstre1/public_html/ajax/hub.php on line 293
+[26-Aug-2023 09:07:27 UTC] PHP Parse error:  Unclosed '{' on line 381 in /home/hexstre1/public_html/ajax/hub.php on line 384
+[26-Aug-2023 09:23:27 UTC] PHP Parse error:  Unclosed '{' on line 498 in /home/hexstre1/public_html/ajax/hub.php on line 500
+[29-Aug-2023 02:00:44 UTC] PHP Warning:  Undefined array key "captcha" in /home/hexstre1/public_html/ajax/login.php on line 85
+[29-Aug-2023 02:00:51 UTC] PHP Warning:  Undefined array key "captcha" in /home/hexstre1/public_html/ajax/login.php on line 85
+[02-Sep-2023 02:15:04 UTC] PHP Warning:  Undefined array key "port" in /home/hexstre1/public_html/ajax/hub.php on line 54
+[02-Sep-2023 02:15:04 UTC] PHP Warning:  Undefined array key "method" in /home/hexstre1/public_html/ajax/hub.php on line 56
+[02-Sep-2023 02:15:10 UTC] PHP Warning:  Undefined array key "port" in /home/hexstre1/public_html/ajax/hub.php on line 54
+[02-Sep-2023 02:15:10 UTC] PHP Warning:  Undefined array key "method" in /home/hexstre1/public_html/ajax/hub.php on line 56
+[11-Oct-2023 11:52:28 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hexstre1/hex-net.org/ajax/hub.php on line 480
+[11-Oct-2023 11:52:31 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hexstre1/hex-net.org/ajax/hub.php on line 480
+[11-Oct-2023 11:53:14 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/hexstre1/hex-net.org/ajax/hub.php on line 494
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:53:36 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 483
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[11-Oct-2023 11:54:05 UTC] PHP Notice:  Undefined variable: action in /home/hexstre1/hex-net.org/ajax/hub.php on line 469
+[12-Oct-2023 09:42:46 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:42:46 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:42:46 UTC] PHP Warning:  include(): Failed opening './@/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:42:46 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:42:46 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:42:46 UTC] PHP Warning:  include(): Failed opening './@/balance.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:13 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:13 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:13 UTC] PHP Warning:  include(): Failed opening './@/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:13 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:13 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:13 UTC] PHP Warning:  include(): Failed opening './@/balance.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/hexstre1/hex-net.org/ajax/balance.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/hexstre1/hex-net.org/ajax/balance.php on line 9
+[12-Oct-2023 09:43:19 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:19 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:19 UTC] PHP Warning:  include(): Failed opening './@/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:19 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:19 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:19 UTC] PHP Warning:  include(): Failed opening './@/balance.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/hexstre1/hex-net.org/ajax/balance.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/hexstre1/hex-net.org/ajax/balance.php on line 9
+[12-Oct-2023 09:43:30 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:30 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:30 UTC] PHP Warning:  include(): Failed opening './@/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:43:30 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:30 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:43:30 UTC] PHP Warning:  include(): Failed opening './@/balance.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:44:08 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:44:08 UTC] PHP Warning:  include(./@/header.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:44:08 UTC] PHP Warning:  include(): Failed opening './@/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 3
+[12-Oct-2023 09:44:08 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:44:08 UTC] PHP Warning:  include(./@/balance.php): failed to open stream: No such file or directory in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:44:08 UTC] PHP Warning:  include(): Failed opening './@/balance.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/hexstre1/hex-net.org/ajax/balance.php on line 4
+[12-Oct-2023 09:46:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/hexstre1/hex-net.org/ajax/balance.php on line 18
+[12-Oct-2023 09:46:47 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/hexstre1/hex-net.org/ajax/balance.php on line 18
+[12-Oct-2023 09:46:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/hexstre1/hex-net.org/ajax/balance.php on line 27
+[12-Oct-2023 09:46:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/hexstre1/hex-net.org/ajax/balance.php on line 29
+[12-Oct-2023 09:46:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/hexstre1/hex-net.org/ajax/balance.php on line 30
+[12-Oct-2023 09:46:47 UTC] PHP Notice:  Trying to access array offset on value of type bool in /home/hexstre1/hex-net.org/ajax/balance.php on line 31
+[22-Oct-2023 19:24:16 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting '(' in /home/hexstre1/hex-net.org/ajax/hub.php on line 288
+[22-Oct-2023 19:24:21 UTC] PHP Parse error:  syntax error, unexpected '$i' (T_VARIABLE), expecting '(' in /home/hexstre1/hex-net.org/ajax/hub.php on line 288
+[10-Nov-2023 11:20:31 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/public_html/ajax/hub.php on line 53
+[10-Nov-2023 11:20:54 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/public_html/ajax/hub.php on line 53
+[10-Nov-2023 11:21:02 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/public_html/ajax/hub.php on line 53
+[10-Nov-2023 11:21:18 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/public_html/ajax/hub.php on line 53
+[07-Dec-2023 09:49:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 580
+[07-Dec-2023 09:49:58 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 580
+[07-Dec-2023 10:03:50 UTC] PHP Notice:  Undefined variable: deleteQuery in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 412
+[07-Dec-2023 10:03:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function errorCode() on null in /home/hexstre1/hexstresser.xyz/ajax/hub.php:412
+Stack trace:
+#0 {main}
+  thrown in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 412
+[17-Dec-2023 21:12:40 UTC] PHP Notice:  Undefined variable: handler in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 348
+[17-Dec-2023 21:12:40 UTC] PHP Notice:  Undefined variable: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 350
+[17-Dec-2023 21:20:34 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:20:34 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:20:34 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:20:34 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:20:51 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:20:51 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:20:51 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:20:51 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:20:55 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:20:55 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:20:55 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:20:55 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:20:57 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:20:57 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:20:57 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:20:57 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:20:59 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:21:00 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:21:00 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:21:00 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:21:00 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
+[17-Dec-2023 21:21:05 UTC] PHP Notice:  Undefined index: host in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 52
+[17-Dec-2023 21:21:05 UTC] PHP Notice:  Undefined index: port in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 53
+[17-Dec-2023 21:21:05 UTC] PHP Notice:  Undefined index: time in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 54
+[17-Dec-2023 21:21:05 UTC] PHP Notice:  Undefined index: method in /home/hexstre1/hexstresser.xyz/ajax/hub.php on line 55
